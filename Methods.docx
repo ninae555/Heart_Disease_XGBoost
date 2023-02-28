@@ -1,0 +1,4 @@
+The data for our project comes from a 2020 survey of 400,000 adults conducted by the CDC that asks about heart disease status, demographics, and a variety of indicators for heart disease such as BMI and smoking.
+18 variables, including the outcome variable, are included in the data set.
+We are specifically focusing on the how the quality of one's mental health impacts their probability of having heart disease.
+Because our outcome variable is a binary variable, we use a logit regression to examine the probability.
